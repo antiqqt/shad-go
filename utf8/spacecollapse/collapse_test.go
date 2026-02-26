@@ -1,4 +1,4 @@
-package spacecollapse
+package spacecollapseё
 
 import (
 	"fmt"
